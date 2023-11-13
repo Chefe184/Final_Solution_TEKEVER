@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Technical Assessment
 
 ## Introduction
@@ -74,3 +75,7 @@ Other than that, it's also important to have:
 * a well structured repository.
 
 Good luck and we hope you enjoy this challenge!
+=======
+# -Technical-Assessment
+![image](https://github.com/Chefe184/-Technical-Assessment/assets/100480265/8f722309-cebf-4bc6-abaf-9df0ea11084a)
+>>>>>>> 7e672fe (Implemented the challenge)
